@@ -7,7 +7,7 @@ from email.header import Header
 # 第三方 SMTP 服务
 mail_host = "smtp.qq.com"  # 设置服务器
 mail_user = "1192466497@qq.com"  # 用户名
-mail_pass = "aqbljxyseoepghic"  # 口令  这个口令是在qq邮箱  设置里面获取的 详情见readme里面的图片
+mail_pass = "aqbljxyseoec"  # 口令  这个口令是在qq邮箱  设置里面获取的 详情见readme里面的图片
 
 sender = '1192466497@qq.com'
 receivers = ['panguangrong@outlook.com']  # 接收邮件，可设置为你的QQ邮箱或者其他邮箱
